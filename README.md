@@ -5,7 +5,10 @@ Schedule reminders for specific date &amp; time and get notified on WhatsApp.
 ## Screenshots
 
 ![App Screenshot](Screenshots/Screenshot1.png)
+App Screenshot, Soothing and Easy to use User-Interface. The list of all the reminders is displayed with the date and time. User would get a WhatsApp message for the scheduled time.
+
 ![WhatsApp Notification](Screenshots/Screenshot2.png)
+Screenshot of WhatsApp Messages received from WhatsRemind Contact.
 
 ## How to use
 
@@ -58,5 +61,8 @@ Node.js, MongoDB, Java, Javascript, HTML, CSS...
 
 ## 🔗 Links
 
+[![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ishubhamparmar.netlify.app)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishubhamparmar)
+
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ishubhamparmar)
