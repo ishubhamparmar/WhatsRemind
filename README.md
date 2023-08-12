@@ -2,13 +2,30 @@
 
 Schedule reminders for specific date &amp; time and get notified on WhatsApp.
 
+
+
 ## Screenshots
 
+
+Screenshot-1 : App Interface
+
+
 ![App Screenshot](Screenshots/Screenshot1.png)
+
+
 App Screenshot, Soothing and Easy to use User-Interface. The list of all the reminders is displayed with the date and time. User would get a WhatsApp message for the scheduled time.
 
+
+
+Screenshot-2 : WhatsApp Chat- Message with the reminders
+
+
 ![WhatsApp Notification](Screenshots/Screenshot2.png)
+
+
 Screenshot of WhatsApp Messages received from WhatsRemind Contact.
+
+
 
 ## How to use
 
@@ -24,6 +41,8 @@ Screenshot of WhatsApp Messages received from WhatsRemind Contact.
 
 **Access the App:** Open your web browser and go to http://localhost:3000 to access the app.
 Set reminders for your tasks and get notified at that time!
+
+
 
 ## Tech Stack
 
@@ -41,13 +60,19 @@ Node.js: A runtime environment that allows running JavaScript on the server side
 
 Twilio API: Integrated for sending WhatsApp notifications and reminders to users.
 
+
+
 ## Support
 
 For support, email contactshubhamparmar@gmail.com
 
+
+
 ## Authors
 
 - [@ishubhamparmar](https://www.github.com/ishubhamparmar)
+
+
 
 # Hi, I'm Shubham Parmar! 👋
 
